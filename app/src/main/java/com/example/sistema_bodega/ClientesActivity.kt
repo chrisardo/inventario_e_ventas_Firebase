@@ -85,7 +85,7 @@ class ClientesActivity : AppCompatActivity() {
         progressBar = findViewById(R.id.progressBar)
         tvClientesEncontrados = findViewById(R.id.tvClientesEncontrados)
         clientesRecyclerView = findViewById(R.id.clientesRecyclerView)
-        empList = arrayListOf<ClientesClass>()
+        empList = arrayListOf<ClientesClass>() // Inicializar la lista de empleados
         clientesRecyclerView.layoutManager = LinearLayoutManager(this)
         // productoRecyclerView.setHasFixedSize(true)
         userId = pref.prefIdUser

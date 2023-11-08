@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+            android:id="@+id/carritoventaMenu"
+            android:icon="@drawable/ic_add_shopping_cart"
+            android:title="Carrito de venta"
+            app:showAsAction="always"/>
+    <item
+            android:id="@+id/notificacion"
+            android:title="Notificaciones"
+            android:icon="@drawable/ic_notifications"
+            app:showAsAction="always"/>
+    <item
+            android:id="@+id/configuraciones"
+            android:icon="@drawable/ic_settings"
+            android:title="Configuraciones"/>
+    <item
+            android:id="@+id/salir"
+            android:icon="@drawable/ic_exit_to_app"
+            android:title="Salir"/>
+</menu>

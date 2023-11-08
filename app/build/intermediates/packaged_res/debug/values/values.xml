@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="green">#00ff00</color>
+    <color name="lavender">#8692f7</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="red">#c70000</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#FFC801</color>
+    <dimen name="icon_size">14dp</dimen>
+    <string name="app_name">Mi bodega</string>
+    <string name="buscarProducto_fragment">Buscar producto</string>
+    <string name="buscarProveedor_fragment">Buscar proveedor</string>
+    <string name="default_web_client_id" translatable="false">442937216561-nsn3qoelpt83gftul4j2d0dku7g8d7ht.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">442937216561</string>
+    <string name="google_api_key" translatable="false">AIzaSyD1fQ_Kn4nJDiWma21fUCQwypz_DRpBjas</string>
+    <string name="google_app_id" translatable="false">1:442937216561:android:5e02a7584060dd171f4f10</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD1fQ_Kn4nJDiWma21fUCQwypz_DRpBjas</string>
+    <string name="google_storage_bucket" translatable="false">sistemaventas-5837f.appspot.com</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="project_id" translatable="false">sistemaventas-5837f</string>
+    <style name="LoginTextInputInnerFieldStyle" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textColorHint">@color/black</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="LoginTextInputOuterFieldStyle" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">15dp</item>
+        <item name="android:layout_marginBottom">15dp</item>
+    </style>
+    <style name="Theme.Sistema_bodega" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+    </style>
+    <style name="roundedImageViewRounded">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">442937216561-nsn3qoelpt83gftul4j2d0dku7g8d7ht.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">442937216561</string>
+    <string name="google_api_key" translatable="false">AIzaSyD1fQ_Kn4nJDiWma21fUCQwypz_DRpBjas</string>
+    <string name="google_app_id" translatable="false">1:442937216561:android:5e02a7584060dd171f4f10</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD1fQ_Kn4nJDiWma21fUCQwypz_DRpBjas</string>
+    <string name="google_storage_bucket" translatable="false">sistemaventas-5837f.appspot.com</string>
+    <string name="project_id" translatable="false">sistemaventas-5837f</string>
+</resources>

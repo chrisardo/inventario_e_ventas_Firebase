@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+            android:id="@+id/venderMenu"
+            android:icon="@drawable/ic_point_of_sale"
+            android:title="Vender"
+            app:showAsAction="always"/>
+    <item
+            android:id="@+id/addClienteMenu"
+            android:icon="@drawable/ic_supervised_user"
+            android:title="Agregar cliente"/>
+
+</menu>

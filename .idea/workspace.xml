@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <device id="_device_class_phone" />
+        <device id="_device_class_tablet" />
+        <option name="nonWearDeviceLastStateName" value="portrait" />
+      </config>
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cea38eb1-1862-4539-949a-fb75d0524652" name="Changes" comment="second commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[HA1C3TKX]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Sistema_bodega" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Sistema_bodega" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Sistema_bodega" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="android" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Sistema_bodega" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="valueResourceFile" />
+        <option value="Kotlin Class" />
+        <option value="layoutResourceFile" />
+        <option value="resourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2RFYpo2CPIYSnardyaDSRXXp4Nm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_directory_selection&quot;: &quot;D:/Sistema_bodega/app/src/main/res/drawable&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Sistema_bodega/app&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;ECMA Script Level 4&quot;,
+      &quot;DockerIgnore&quot;,
+      &quot;PLAIN_TEXT&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="android.template.1830465815">
+      <recent name="com.example.sistema_bodega" />
+    </key>
+    <key name="android.template.-865064229">
+      <recent name="com.example.sistema_bodega" />
+    </key>
+    <key name="android.template.-2045087080">
+      <recent name="com.example.sistema_bodega" />
+    </key>
+    <key name="android.template.-26898382">
+      <recent name="com.example.sistema_bodega" />
+    </key>
+    <key name="android.template.-526562286">
+      <recent name="com.example.sistema_bodega" />
+    </key>
+    <key name="android.template.126701907">
+      <recent name="com.example.sistema_bodega" />
+    </key>
+    <key name="android.template.580507875">
+      <recent name="com.example.sistema_bodega" />
+    </key>
+    <key name="android.template.1071525710">
+      <recent name="com.example.sistema_bodega" />
+    </key>
+    <key name="android.template.1836160435">
+      <recent name="com.example.sistema_bodega" />
+    </key>
+    <key name="android.template.-2068061932">
+      <recent name="com.example.sistema_bodega" />
+    </key>
+    <key name="android.template.1821389910">
+      <recent name="com.example.sistema_bodega" />
+    </key>
+    <key name="android.template.859235961">
+      <recent name="com.example.sistema_bodega" />
+    </key>
+    <key name="android.template.799881191">
+      <recent name="com.example.sistema_bodega" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Sistema_bodega\app" />
+      <recent name="D:\Sistema_bodega\app\src\main\res\drawable" />
+      <recent name="D:\Sistema_bodega\app\src\main\res" />
+    </key>
+    <key name="android.template.-1541889636">
+      <recent name="com.example.sistema_bodega" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.example.sistema_bodega.Clases" />
+      <recent name="com.example.sistema_bodega.Adaptadores" />
+    </key>
+    <key name="android.template.1251181030">
+      <recent name="com.example.sistema_bodega" />
+    </key>
+    <key name="android.template.-1906234847">
+      <recent name="com.example.sistema_bodega" />
+    </key>
+    <key name="android.template.-1343097934">
+      <recent name="com.example.sistema_bodega" />
+    </key>
+    <key name="android.template.-853382657">
+      <recent name="com.example.sistema_bodega" />
+    </key>
+    <key name="android.template.1381430972">
+      <recent name="com.example.sistema_bodega" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="Sistema_bodega.app.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Java />
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sistema_bodega [androidDependencies]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="androidDependencies" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <ForceTestExec>false</ForceTestExec>
+      <method v="2" />
+    </configuration>
+    <configuration name="Sistema_bodega [assembleAndroidTest]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="assembleAndroidTest" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <ForceTestExec>false</ForceTestExec>
+      <method v="2" />
+    </configuration>
+    <configuration name="Sistema_bodega [assemble]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="assemble" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <ForceTestExec>false</ForceTestExec>
+      <method v="2" />
+    </configuration>
+    <configuration name="Sistema_bodega [signingReport]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="signingReport" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <ForceTestExec>false</ForceTestExec>
+      <method v="2" />
+    </configuration>
+    <configuration name="Sistema_bodega [sourceSets]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="sourceSets" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <ForceTestExec>false</ForceTestExec>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.Sistema_bodega [signingReport]" />
+        <item itemvalue="Gradle.Sistema_bodega [assembleAndroidTest]" />
+        <item itemvalue="Gradle.Sistema_bodega [assemble]" />
+        <item itemvalue="Gradle.Sistema_bodega [androidDependencies]" />
+        <item itemvalue="Gradle.Sistema_bodega [sourceSets]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cea38eb1-1862-4539-949a-fb75d0524652" name="Changes" comment="" />
+      <created>1686847481520</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686847481520</updated>
+      <workItem from="1686847484546" duration="680000" />
+      <workItem from="1687558252799" duration="6586000" />
+      <workItem from="1687789492988" duration="12688000" />
+      <workItem from="1687803241730" duration="104000" />
+      <workItem from="1687812364767" duration="11275000" />
+      <workItem from="1687827069696" duration="57000" />
+      <workItem from="1687876332928" duration="13505000" />
+      <workItem from="1687897520258" duration="14246000" />
+      <workItem from="1687912181526" duration="77000" />
+      <workItem from="1687963581906" duration="208000" />
+      <workItem from="1687964388655" duration="11389000" />
+      <workItem from="1687983986351" duration="12850000" />
+      <workItem from="1688136905468" duration="4466000" />
+      <workItem from="1688157493019" duration="12033000" />
+      <workItem from="1688182652688" duration="14539000" />
+      <workItem from="1688268711361" duration="7867000" />
+      <workItem from="1688336073203" duration="6020000" />
+      <workItem from="1688394389075" duration="10329000" />
+      <workItem from="1688416190425" duration="14518000" />
+      <workItem from="1688481895742" duration="11284000" />
+      <workItem from="1688502612496" duration="11081000" />
+      <workItem from="1688566593769" duration="13060000" />
+      <workItem from="1688588557406" duration="6362000" />
+      <workItem from="1688596243286" duration="1006000" />
+      <workItem from="1688654119171" duration="11980000" />
+      <workItem from="1688674828373" duration="13230000" />
+      <workItem from="1688739287371" duration="14365000" />
+      <workItem from="1688764560630" duration="4913000" />
+      <workItem from="1688770253852" duration="3196000" />
+      <workItem from="1688849651189" duration="6350000" />
+      <workItem from="1688998613133" duration="12204000" />
+      <workItem from="1689021617789" duration="12670000" />
+      <workItem from="1689085854096" duration="12555000" />
+      <workItem from="1689107751963" duration="6594000" />
+      <workItem from="1689173426269" duration="4979000" />
+      <workItem from="1689180970538" duration="220000" />
+      <workItem from="1689181521256" duration="3426000" />
+      <workItem from="1689194025136" duration="3180000" />
+      <workItem from="1689257475941" duration="4419000" />
+      <workItem from="1689345818813" duration="4063000" />
+      <workItem from="1689367117166" duration="4250000" />
+      <workItem from="1689376897198" duration="3288000" />
+      <workItem from="1689776626900" duration="1043000" />
+      <workItem from="1689778314329" duration="11492000" />
+      <workItem from="1689798623961" duration="12237000" />
+      <workItem from="1689864102137" duration="43000" />
+      <workItem from="1689895210238" duration="3576000" />
+      <workItem from="1689950259111" duration="3212000" />
+      <workItem from="1689956662640" duration="539000" />
+      <workItem from="1689957724899" duration="5825000" />
+      <workItem from="1690208349138" duration="191000" />
+      <workItem from="1690297326099" duration="10889000" />
+      <workItem from="1690317290921" duration="291000" />
+      <workItem from="1690318126165" duration="1424000" />
+      <workItem from="1690321088308" duration="8615000" />
+      <workItem from="1690921997928" duration="11259000" />
+      <workItem from="1690989274024" duration="13786000" />
+      <workItem from="1691011236025" duration="4202000" />
+      <workItem from="1691030763232" duration="1197000" />
+      <workItem from="1691032531443" duration="14871000" />
+      <workItem from="1691082027525" duration="3102000" />
+      <workItem from="1691097343101" duration="10444000" />
+      <workItem from="1691159521616" duration="12330000" />
+      <workItem from="1691590558045" duration="13108000" />
+      <workItem from="1691615334446" duration="3250000" />
+      <workItem from="1691763546092" duration="2854000" />
+      <workItem from="1691794678615" duration="7292000" />
+      <workItem from="1692109141782" duration="12642000" />
+      <workItem from="1692132290086" duration="10825000" />
+      <workItem from="1692195402632" duration="11110000" />
+      <workItem from="1692218437466" duration="4840000" />
+      <workItem from="1693346414666" duration="9520000" />
+      <workItem from="1693498634037" duration="1791000" />
+      <workItem from="1693517546644" duration="8781000" />
+      <workItem from="1693858783988" duration="6477000" />
+      <workItem from="1693928821692" duration="7601000" />
+      <workItem from="1693954558870" duration="4367000" />
+      <workItem from="1693963633184" duration="204000" />
+      <workItem from="1694465533017" duration="2815000" />
+      <workItem from="1694469528448" duration="548000" />
+      <workItem from="1694470559911" duration="8578000" />
+      <workItem from="1694529411352" duration="5968000" />
+      <workItem from="1694614500359" duration="13415000" />
+      <workItem from="1694704601302" duration="8241000" />
+      <workItem from="1694726227693" duration="6827000" />
+      <workItem from="1694816774368" duration="6137000" />
+      <workItem from="1695046391816" duration="10953000" />
+      <workItem from="1695070085108" duration="13139000" />
+      <workItem from="1695219806912" duration="13094000" />
+      <workItem from="1699396837763" duration="7577000" />
+    </task>
+    <task id="LOCAL-00001" summary="second commit">
+      <created>1699398372552</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699398372552</updated>
+    </task>
+    <task id="LOCAL-00002" summary="three commit">
+      <created>1699403108208</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1699403108208</updated>
+    </task>
+    <task id="LOCAL-00003" summary="three commit">
+      <created>1699403294944</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1699403294944</updated>
+    </task>
+    <task id="LOCAL-00004" summary="three commit">
+      <created>1699403510787</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1699403510787</updated>
+    </task>
+    <task id="LOCAL-00005" summary="three commit">
+      <created>1699403636849</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1699403636849</updated>
+    </task>
+    <task id="LOCAL-00006" summary="second commit">
+      <created>1699403758799</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1699403758799</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="graficos" />
+    <MESSAGE value="three commit" />
+    <MESSAGE value="second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/sistema_bodega/fragments/ProductoFragment.kt</url>
+          <line>39</line>
+          <properties class="com.example.sistema_bodega.fragments.ProductoFragment" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/sistema_bodega/detalleProductoActivity.kt</url>
+          <line>30</line>
+          <properties class="com.example.sistema_bodega.detalleProductoActivity" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/sistema_bodega/RegistroActivity.kt</url>
+          <line>42</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "442937216561",
+    "project_id": "sistemaventas-5837f",
+    "storage_bucket": "sistemaventas-5837f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442937216561:android:5e02a7584060dd171f4f10",
+        "android_client_info": {
+          "package_name": "com.example.sistema_bodega"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442937216561-nsn3qoelpt83gftul4j2d0dku7g8d7ht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1fQ_Kn4nJDiWma21fUCQwypz_DRpBjas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442937216561-nsn3qoelpt83gftul4j2d0dku7g8d7ht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

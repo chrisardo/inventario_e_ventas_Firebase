@@ -1,0 +1,194 @@
+[
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-mergeDebugResources-75:\\layout\\alert_opcion_imagen.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\alert_opcion_imagen.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-mergeDebugResources-75:\\layout\\icono_derecha.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\icono_derecha.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-mergeDebugResources-75:\\layout\\fragment_ventas.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\fragment_ventas.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-mergeDebugResources-75:\\layout\\proveedor_recycler.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\proveedor_recycler.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-mergeDebugResources-75:\\layout\\cliente_editar_alert.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\cliente_editar_alert.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-mergeDebugResources-75:\\layout\\fragment_reportes.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\fragment_reportes.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-mergeDebugResources-75:\\layout\\fragment_proveedor.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\fragment_proveedor.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-mergeDebugResources-75:\\layout\\cliente_recyclerview.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\cliente_recyclerview.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-mergeDebugResources-75:\\layout\\producto_recycler.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\producto_recycler.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-mergeDebugResources-75:\\layout\\activity_carrito_ventas.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\activity_carrito_ventas.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-mergeDebugResources-75:\\layout\\activity_proveedores.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\activity_proveedores.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-mergeDebugResources-75:\\layout\\alert_image_get.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\alert_image_get.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-mergeDebugResources-75:\\layout\\activity_registro2.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\activity_registro2.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-mergeDebugResources-75:\\layout\\item_editarproducto.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\item_editarproducto.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-mergeDebugResources-75:\\layout\\fragment_producto.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\fragment_producto.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-mergeDebugResources-75:\\layout\\alert_registrar_proveedor.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\alert_registrar_proveedor.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-mergeDebugResources-75:\\layout\\activity_recibo_ticket.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\activity_recibo_ticket.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-mergeDebugResources-75:\\layout\\activity_registrar_proveedor.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\activity_registrar_proveedor.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-mergeDebugResources-75:\\layout\\activity_categorias.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\activity_categorias.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-mergeDebugResources-75:\\layout\\activity_configuraciones.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\activity_configuraciones.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-mergeDebugResources-75:\\layout\\activity_descargar_ticket_venta_pdf.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\activity_descargar_ticket_venta_pdf.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-mergeDebugResources-75:\\layout\\activity_splash_screem.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\activity_splash_screem.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-mergeDebugResources-75:\\layout\\carrito_venta_recyclerview.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\carrito_venta_recyclerview.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-mergeDebugResources-75:\\layout\\category_recyclerview.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\category_recyclerview.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-mergeDebugResources-75:\\layout\\rv_detalle_lista_venta.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\rv_detalle_lista_venta.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-mergeDebugResources-75:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-mergeDebugResources-75:\\layout\\alert_registrar_categoria.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\alert_registrar_categoria.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-mergeDebugResources-75:\\layout\\activity_historia_venta.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\activity_historia_venta.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-mergeDebugResources-75:\\layout\\ventas_producto_recyclerview.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\ventas_producto_recyclerview.xml"
+    },
+    {
+        "merged": "com.example.sistema_bodega.app-mergeDebugResources-75:/layout/activity_categorias.xml",
+        "source": "com.example.sistema_bodega.app-main-78:/layout/activity_categorias.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-mergeDebugResources-75:\\layout\\categoria_alert.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\categoria_alert.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-mergeDebugResources-75:\\layout\\rv_historial_ventas.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\rv_historial_ventas.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-mergeDebugResources-75:\\layout\\activity_editar_perfil.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\activity_editar_perfil.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-mergeDebugResources-75:\\layout\\activity_registrar_producto.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\activity_registrar_producto.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-mergeDebugResources-75:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-mergeDebugResources-75:\\layout\\cantidad_producto_venta.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\cantidad_producto_venta.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-mergeDebugResources-75:\\layout\\alert_guardar_venta.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\alert_guardar_venta.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-mergeDebugResources-75:\\layout\\activity_clientes.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\activity_clientes.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-mergeDebugResources-75:\\layout\\dialog_editar_proveedor.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\dialog_editar_proveedor.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-mergeDebugResources-75:\\layout\\activity_detalle_venta.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\activity_detalle_venta.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-mergeDebugResources-75:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-mergeDebugResources-75:\\layout\\activity_detalle_proveedor.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\activity_detalle_proveedor.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-mergeDebugResources-75:\\layout\\alert_editar_categoria.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\alert_editar_categoria.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-mergeDebugResources-75:\\layout\\registrar_cliente_alert.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\registrar_cliente_alert.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-mergeDebugResources-75:\\layout\\activity_detalle_producto.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\activity_detalle_producto.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-mergeDebugResources-75:\\layout\\alert_info_empresa_edit.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\alert_info_empresa_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-mergeDebugResources-75:\\layout\\activity_grafico_venta.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\activity_grafico_venta.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-mergeDebugResources-75:\\layout\\activity_registro.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\activity_registro.xml"
+    }
+]

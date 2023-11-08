@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mi bodega</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="buscarProveedor_fragment">Buscar proveedor</string>
+    <string name="buscarProducto_fragment">Buscar producto</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+            android:id="@+id/proveedorMenu"
+            android:icon="@drawable/proveedor"
+            app:showAsAction="always"
+            android:title="Registrar proveedor"/>
+    <item
+            android:id="@+id/categoriaMenu"
+            android:icon="@drawable/ic_category"
+            app:showAsAction="always"
+            android:title="Registrar categoria"/>
+</menu>

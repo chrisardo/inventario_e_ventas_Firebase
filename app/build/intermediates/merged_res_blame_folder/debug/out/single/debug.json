@@ -1,0 +1,494 @@
+[
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\layout_activity_configuraciones.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\activity_configuraciones.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\layout_activity_clientes.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\activity_clientes.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\layout_activity_registrar_producto.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\activity_registrar_producto.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\layout_activity_registro.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\activity_registro.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\drawable_ic_person_add.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\drawable\\ic_person_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\xml_file_paths.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\drawable_ic_close.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\drawable\\ic_close.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\drawable_ic_settings.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\drawable\\ic_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\layout_alert_registrar_proveedor.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\alert_registrar_proveedor.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\layout_producto_recycler.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\producto_recycler.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\drawable_ic_edit.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\drawable\\ic_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\drawable_ic_atras.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\drawable\\ic_atras.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\layout_activity_splash_screem.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\activity_splash_screem.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\layout_icono_derecha.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\icono_derecha.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\layout_activity_detalle_proveedor.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\activity_detalle_proveedor.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\drawable_ic_image.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\drawable\\ic_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\drawable_ic_supervised_user.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\drawable\\ic_supervised_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\drawable_ic_share.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\drawable\\ic_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\layout_alert_opcion_imagen.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\alert_opcion_imagen.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\drawable_ic_archive.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\drawable\\ic_archive.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\layout_fragment_reportes.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\fragment_reportes.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\drawable_ic_store.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\drawable\\ic_store.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\layout_category_recyclerview.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\category_recyclerview.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\layout_fragment_producto.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\fragment_producto.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\layout_fragment_proveedor.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\fragment_proveedor.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\drawable_ic_account.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\drawable\\ic_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\layout_alert_editar_categoria.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\alert_editar_categoria.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\drawable_ic_camera.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\drawable\\ic_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\layout_activity_recibo_ticket.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\activity_recibo_ticket.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\drawable_ic_pago.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\drawable\\ic_pago.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\layout_activity_carrito_ventas.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\activity_carrito_ventas.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\drawable_uploadimg.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\drawable\\uploadimg.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\drawable_ic_delete.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\drawable\\ic_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\layout_activity_registrar_proveedor.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\activity_registrar_proveedor.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\menu_menu_recibo_ticket.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\menu\\menu_recibo_ticket.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\layout_rv_detalle_lista_venta.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\rv_detalle_lista_venta.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\drawable_ic_more_vert.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\drawable\\ic_more_vert.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\drawable_dni.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\drawable\\dni.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\drawable_ic_qr_code_scanner.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\drawable\\ic_qr_code_scanner.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\layout_fragment_ventas.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\fragment_ventas.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\drawable_ic_phone_callback.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\drawable\\ic_phone_callback.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\layout_alert_image_get.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\alert_image_get.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\layout_activity_grafico_venta.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\activity_grafico_venta.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\layout_proveedor_recycler.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\proveedor_recycler.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\drawable_ic_storefront.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\drawable\\ic_storefront.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\layout_activity_categorias.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\activity_categorias.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\drawable_ic_pdf.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\drawable\\ic_pdf.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\layout_rv_historial_ventas.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\rv_historial_ventas.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\drawable_ic_lock.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\drawable\\ic_lock.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\layout_cliente_recyclerview.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\cliente_recyclerview.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\layout_alert_registrar_categoria.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\alert_registrar_categoria.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\layout_activity_descargar_ticket_venta_pdf.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\activity_descargar_ticket_venta_pdf.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\layout_activity_proveedores.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\activity_proveedores.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\menu_menu_carrito.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\menu\\menu_carrito.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\layout_carrito_venta_recyclerview.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\carrito_venta_recyclerview.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\drawable_ic_point_of_sale.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\drawable\\ic_point_of_sale.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\drawable_ic_person.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\drawable\\ic_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\layout_activity_detalle_producto.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\activity_detalle_producto.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\drawable_ic_exit_to_app.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\drawable\\ic_exit_to_app.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\drawable_ic_search.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\drawable_ic_navigate_next.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\drawable\\ic_navigate_next.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\drawable_lavender_border.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\drawable\\lavender_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\drawable_ic_save.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\drawable\\ic_save.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\drawable_ic_notifications.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\drawable\\ic_notifications.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\drawable_ic_add_shopping_cart.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\drawable\\ic_add_shopping_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\menu_show_menu_recyclerview.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\menu\\show_menu_recyclerview.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\menu_registrar_producto_menu.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\menu\\registrar_producto_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\layout_activity_detalle_venta.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\activity_detalle_venta.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\menu_show_menu_historial_rv.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\menu\\show_menu_historial_rv.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\drawable_producto.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\drawable\\producto.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\layout_item_editarproducto.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\item_editarproducto.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\menu_menu_cliente.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\menu\\menu_cliente.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\menu_nav_menu.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\menu\\nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\menu_menu_proveedor.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\menu\\menu_proveedor.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\drawable_proveedor.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\drawable\\proveedor.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\drawable_ic_phone.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\drawable\\ic_phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\layout_categoria_alert.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\categoria_alert.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\drawable_ic_update.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\drawable\\ic_update.xml"
+    },
+    {
+        "merged": "com.example.sistema_bodega.app-merged_res-76:/layout_activity_categorias.xml.flat",
+        "source": "com.example.sistema_bodega.app-main-78:/layout/activity_categorias.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\menu_proveedor_menu.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\menu\\proveedor_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\layout_activity_editar_perfil.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\activity_editar_perfil.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\layout_registrar_cliente_alert.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\registrar_cliente_alert.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\drawable_ic_category.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\drawable\\ic_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\layout_alert_guardar_venta.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\alert_guardar_venta.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\layout_cantidad_producto_venta.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\cantidad_producto_venta.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\layout_ventas_producto_recyclerview.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\ventas_producto_recyclerview.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\menu_detalleproducto_menu.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\menu\\detalleproducto_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\drawable_ic_add_task.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\drawable\\ic_add_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\layout_activity_registro2.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\activity_registro2.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\drawable_ic_dni.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\drawable\\ic_dni.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\menu_detalle_ticket_menu.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\menu\\detalle_ticket_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\layout_dialog_editar_proveedor.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\dialog_editar_proveedor.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\layout_activity_historia_venta.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\activity_historia_venta.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\layout_cliente_editar_alert.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\cliente_editar_alert.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\drawable_ic_analytics.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\drawable\\ic_analytics.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\drawable_ic_calendar.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\drawable\\ic_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\layout_alert_info_empresa_edit.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\layout\\alert_info_empresa_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\drawable_ic_email.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\drawable\\ic_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\drawable_ic_shopping.xml.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\drawable\\ic_shopping.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-merged_res-76:\\drawable_icono_ventas.png.flat",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.5\\com.example.sistema_bodega.app-main-78:\\drawable\\icono_ventas.png"
+    }
+]

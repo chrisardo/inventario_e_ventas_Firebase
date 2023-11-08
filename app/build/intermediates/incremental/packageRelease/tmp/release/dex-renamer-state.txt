@@ -1,0 +1,4 @@
+#Fri Jun 23 18:57:24 PET 2023
+base.0=D\:\\Sistema_bodega\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
